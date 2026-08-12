@@ -1,0 +1,9 @@
+*.txt
+__pycache__/
+.cursor/
+.venv/
+.env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
